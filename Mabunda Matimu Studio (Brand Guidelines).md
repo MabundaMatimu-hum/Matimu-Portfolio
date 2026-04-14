@@ -4,6 +4,7 @@
 ### Screenshots
 ![MM Studio Screenshot](/images/matimu.png)
 
+---
 ### Link to the Project
 <a href="files/Mabunda_Matimu_Studio_Brand_Guidelines.pdf">MM Studio (Brand Guidelines)</a>
 
@@ -12,12 +13,16 @@ A professional brand identity project focusing on visual consistency and design 
 
 This Brand identity it all about branding my self using MM Studio as it stand for Mabunda Matimu Studio. It showcase the understanding of branding that is important to be consistant, understand the relationship of colour pallete and topography. How to make audience recornise you brand by visual.
 
+---
+
 **Installation Instructions**
 As this is a **brand guidelines document** (included as a project file within the repository):
 1. Access the repository containing the file `Mabunda_Matimu_Studio_Brand_Guidelines.pdf`.
 2. Download the file to your local machine.
 3. Ensure you have a PDF reader (e.g., Adobe Acrobat, browser PDF viewer) installed.
 4. No coding environment, server, or compilation steps are required.
+
+---
 
 **Usage Instructions**
 1. Open the downloaded brand guidelines file using any PDF viewer.
@@ -31,6 +36,7 @@ As this is a **brand guidelines document** (included as a project file within th
 **License Information**
 - **License:** As a professional brand identity project, it is shared for **portfolio and academic review only**. No commercial use is granted without prior written permission.
 
+---
 **Key Learning Outcomes:**
 - Application of colour theory and accessibility standards  
 - Development of typography systems  
