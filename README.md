@@ -1,5 +1,5 @@
 
-CV
+### CV
 ----
 # **MATIMU MABUNDA**
 
@@ -90,7 +90,17 @@ ________________________________________________________________________________
 * [vonaniadrew03@gmail.com]( vonaniadrew03@gmail.com " Mr. Chauke V.A Email" )
  
   
-  
+---
+ ## Reflection on coding in Markdown
+
+
+When I was first introduced to Markdown, I understood it as a simple way of writing and formatting content for the web using plain text instead of complex code. At the beginning, my task was to use Markdown to build and structure my GitHub portfolio, including my CV and other sections. I had never used Markdown before, so adjusting to its syntax was challenging, especially remembering how to format headings, links, and lists correctly without seeing instant visual results like in Word. I also struggled with small mistakes such as missing symbols, which would break the layout.
+
+To overcome this, I practised consistently by editing my README file and testing how different Markdown elements worked. Over time, I became more comfortable and started to appreciate how clean and efficient it is. Through this experience, I learned that Markdown is a powerful tool for developers because it encourages clear, structured, and professional presentation of content. It also improved my attention to detail and problem-solving skills, as I had to debug my own formatting. This experience has helped me grow in confidence and prepared me to use Markdown effectively in future projects.
+
+
+
+
 
 -----------------------------------------------------------------
   
@@ -98,3 +108,15 @@ ________________________________________________________________________________
                                
 
 <video src="./Mock Interview Video.mp4" type="video/mp4" controls width="600"></video>
+
+
+
+----
+## Reflection on mock interview video experience
+
+
+Preparing for my mock interview was a valuable learning experience. I started by researching common interview questions and understanding what employers expect from candidates. To practise, I stood in front of a mirror and spoke to myself to build confidence. I also did a WhatsApp video call with my friend, where he acted as the interviewer and asked me questions like “Tell me about yourself,” “What is your greatest strength?” “What is your highest level of education?” and “Give an example of how you prioritise tasks.”
+
+One of the most difficult parts was answering questions naturally without sounding memorised. I also struggled with confidence at first, especially when trying to explain my strengths clearly. However, practising multiple times helped me improve my communication and reduce nervousness.
+
+Through this experience, I learned the importance of preparation, confidence, and clear communication. I realised that interviews are not just about giving correct answers, but about presenting yourself professionally and showing your personality. This exercise helped me feel more prepared for real-world interviews and improved my self-confidence.
