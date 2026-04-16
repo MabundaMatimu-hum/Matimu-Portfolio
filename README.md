@@ -120,3 +120,13 @@ Preparing for my mock interview was a valuable learning experience. I started by
 One of the most difficult parts was answering questions naturally without sounding memorised. I also struggled with confidence at first, especially when trying to explain my strengths clearly. However, practising multiple times helped me improve my communication and reduce nervousness.
 
 Through this experience, I learned the importance of preparation, confidence, and clear communication. I realised that interviews are not just about giving correct answers, but about presenting yourself professionally and showing your personality. This exercise helped me feel more prepared for real-world interviews and improved my self-confidence.
+
+
+---
+## Reflection on GitHub Pages
+
+Using GitHub Pages for the first time was both challenging and rewarding. I deployed my site by creating a repository, by write markdown code on **README.md**, and enabling GitHub Pages through the repository settings. I linked it to the main branch so that my website could be published online and accessible through a public URL.
+
+One of the main problems I faced was understanding how GitHub works, especially the difference between a repository and a live site. I also struggled with file structure and ensuring that my index file was correctly placed for the site to load. At some point, my website did not display properly because of incorrect file paths, which forced me to troubleshoot and fix my code.
+
+Through this experience, I learned how to host a real website and the importance of organising files correctly. I also gained confidence in using version control and understood how developers share and deploy projects online. This process made me realise that GitHub is not just for storing code, but a powerful tool for building a professional online presence.
