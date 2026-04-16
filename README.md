@@ -1,5 +1,5 @@
 
-### CV
+## Curriculum Vitae (CV)
 ----
 # **MATIMU MABUNDA**
 
