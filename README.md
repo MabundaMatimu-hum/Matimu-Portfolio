@@ -94,9 +94,9 @@ ________________________________________________________________________________
  ## Reflection on coding in Markdown
 
 
-When I was first introduced to Markdown, I understood it as a simple way of writing and formatting content for the web using plain text instead of complex code. At the beginning, my task was to use Markdown to build and structure my GitHub portfolio, including my CV and other sections. I had never used Markdown before, so adjusting to its syntax was challenging, especially remembering how to format headings, links, and lists correctly without seeing instant visual results like in Word. I also struggled with small mistakes such as missing symbols, which would break the layout.
+The first time I encountered Markdown, I thought it was a mere method of writing and structuring web content with plain text other than using complicated code. Initially, I was to work on creating my portfolio on GitHub using Markdown to design and organize my CV and other subsections. I was not used to using Markdown, and thus it was not easy to get used to its syntax, especially the ability to format headings, links, and lists properly without seeing immediate visual outcomes as in Word. Another problem that I had was small mistakes like a lack of symbols, which would disrupt the layout.
 
-To overcome this, I practised consistently by editing my README file and testing how different Markdown elements worked. Over time, I became more comfortable and started to appreciate how clean and efficient it is. Through this experience, I learned that Markdown is a powerful tool for developers because it encourages clear, structured, and professional presentation of content. It also improved my attention to detail and problem-solving skills, as I had to debug my own formatting. This experience has helped me grow in confidence and prepared me to use Markdown effectively in future projects.
+To avoid this, I trained to do it by continuously editing my README file and testing the functionality of various Markdown elements. With time, I got used to it and began to like its cleanliness and efficiency. This experience taught me that Markdown is a powerful tool among developers since it promotes clarity and structured and professional presentation of content. It has also enhanced my problem-solving and attentiveness skills because I had to debug my own format. This has enabled me to develop confidence and made me ready to apply Markdown in future projects.
 
 
 
@@ -115,18 +115,20 @@ To overcome this, I practised consistently by editing my README file and testing
 ## Reflection on mock interview video experience
 
 
-Preparing for my mock interview was a valuable learning experience. I started by researching common interview questions and understanding what employers expect from candidates. To practise, I stood in front of a mirror and spoke to myself to build confidence. I also did a WhatsApp video call with my friend, where he acted as the interviewer and asked me questions like “Tell me about yourself,” “What is your greatest strength?” “What is your highest level of education?” and “Give an example of how you prioritise tasks.”
+The mock interview preparation experience was quite an educative one. I began by researching the interview questions that are typical and knowing what the employers want. I practiced in front of a mirror, talking to myself to gain confidence. I also made a video call with my friend through WhatsApp, where he was the interviewer and asked me some questions, such as "Tell me about yourself" and "What is your greatest strength?" What is the highest level of your education? And what is an example of how you set priorities in tasks?
 
-One of the most difficult parts was answering questions naturally without sounding memorised. I also struggled with confidence at first, especially when trying to explain my strengths clearly. However, practising multiple times helped me improve my communication and reduce nervousness.
 
-Through this experience, I learned the importance of preparation, confidence, and clear communication. I realised that interviews are not just about giving correct answers, but about presenting yourself professionally and showing your personality. This exercise helped me feel more prepared for real-world interviews and improved my self-confidence.
+The most challenging aspect was to respond to the questions in a natural way without sounding like it was memorized. My initial confidence problem was also associated with an inability to discuss my strengths articulately. Nonetheless, rehearsing also enabled me to become a better communicator and conquer nervousness.
+
+
+This experience taught me that it is important to be prepared, be confident, and communicate clearly. I understood that the interview is not only about the right answers but also about being a professional and demonstrating your personality. The exercise made me feel more ready in the real-life interviews, and I have enhanced my self-confidence.
 
 
 ---
 ## Reflection on GitHub Pages
 
-Using GitHub Pages for the first time was both challenging and rewarding. I deployed my site by creating a repository, by write markdown code on **README.md**, and enabling GitHub Pages through the repository settings. I linked it to the main branch so that my website could be published online and accessible through a public URL.
+It was a difficult but fulfilling experience to use GitHub Pages the first time. I used the command to deploy my site by making a repository, writing markdown code on README.md, and turning on GitHub Pages using the repository settings. I connected it with the main branch in order to have my site published online and available with a public URL.
 
-One of the main problems I faced was understanding how GitHub works, especially the difference between a repository and a live site. I also struggled with file structure and ensuring that my index file was correctly placed for the site to load. At some point, my website did not display properly because of incorrect file paths, which forced me to troubleshoot and fix my code.
+A significant issue that I encountered was the inability to comprehend the functionality of GitHub, in particular, the distinction between a repository and a live site. I also had a problem with the structure of the files and the correct placement of my index file to make the site load. There was also a time when my web site failed to load correctly due to incorrect file paths, and I had to troubleshoot and correct my code.
 
-Through this experience, I learned how to host a real website and the importance of organising files correctly. I also gained confidence in using version control and understood how developers share and deploy projects online. This process made me realise that GitHub is not just for storing code, but a powerful tool for building a professional online presence.
+This experience taught me how to create a real site and the need to properly organize files. I also learned to be confident with version control and how developers share and deploy projects on the internet. This process helped me to understand that GitHub is not only a place to store the code but also a strong tool to create a professional online presence.
