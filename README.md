@@ -91,7 +91,7 @@ ________________________________________________________________________________
  
   
 ---
- ## Reflection on coding in Markdown
+## Reflection on coding in Markdown
 
 
 The first time I encountered Markdown, I thought it was a mere method of writing and structuring web content with plain text other than using complicated code. Initially, I was to work on creating my portfolio on GitHub using Markdown to design and organize my CV and other subsections. I was not used to using Markdown, and thus it was not easy to get used to its syntax, especially the ability to format headings, links, and lists properly without seeing immediate visual outcomes as in Word. Another problem that I had was small mistakes like a lack of symbols, which would disrupt the layout.
