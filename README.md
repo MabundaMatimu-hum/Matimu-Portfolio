@@ -92,7 +92,6 @@ ________________________________________________________________________________
   
 ---
 
-## Reflection on GitHub Pages
 ## Reflection on coding in Markdown
 
 
